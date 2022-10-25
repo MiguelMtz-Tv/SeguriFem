@@ -14,4 +14,4 @@ SeguryFem is a landing page for a university project.
 
 ### Acknowledgments
 
-> Made by Sam 🖖🚀
+> Made by Sam & Miguel 🖖🚀
